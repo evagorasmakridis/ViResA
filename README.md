@@ -35,12 +35,28 @@ The ViResA (Virtualized [server] Resource Allocation) project studies the perfor
 
 ## Publication ##
 If our work helps your works in an academic/research context, please cite the following publications:
+
+* E. Makridis, K. Deliparaschos, E. Kalyvianaki, A. Zolotas, and T. Charalambous, **"Robust Dynamic CPU Resource Provisioning in Virtualized Servers"**, 2018, arXiv preprint arXiv:1811.05533
+```bibtex
 @article{makridis2018robust,
   title={Robust Dynamic CPU Resource Provisioning in Virtualized Servers},
   author={Makridis, Evagoras and Deliparaschos, Kyriakos and Kalyvianaki, Evangelia and Zolotas, Argyrios and Charalambous, Themistoklis},
   journal={arXiv preprint arXiv:1811.05533},
   year={2018}
 }
+```
+
+* E. Makridis, K. Deliparaschos, E. Kalyvianaki, and T. Charalambous, **"Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correntropy Criterion Kalman filters"**, 2017, IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+```bibtex
+@inproceedings{makridis2017dynamic,
+  title={Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correntropy Criterion Kalman filters},
+  author={Makridis, Evagoras and Deliparaschos, Kyriakos M and Kalyvianaki, Evangelia and Charalambous, Themistoklis},
+  booktitle={IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)},
+  pages={1--8},
+  year={2017},
+  organization={IEEE}
+}
+```
 
 ## Who do I talk to? ##
 * Dr. Kyriakos Deliparaschos: k.deliparaschos@cut.ac.cy
