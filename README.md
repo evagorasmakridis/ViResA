@@ -1,4 +1,4 @@
-# ViResA #
+# ViResA-mimo #
 
 ## Prerequisites (for real-data workloads) ##
 Server Side:
